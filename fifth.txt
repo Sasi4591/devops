@@ -1,1 +1,3 @@
 Doing from the github/remote
+
+changes in local repo has been done
